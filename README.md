@@ -6,6 +6,8 @@
 要設定
 ```
 channelId = "<チャンネルID>"　<- https://www.youtube.com/channel/~~~ の ~~~ を入力
+```
+```
 API_KEY = "<APIキー>" <- GCPでプロジェクトを作成し、YouTube Data API v3 を有効化し、APIキーを発行しそのキーを入力
 ```
 
